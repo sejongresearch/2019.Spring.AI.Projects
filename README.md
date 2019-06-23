@@ -6,7 +6,7 @@
 :--: | :--: | :--: | :--: | :--: | 
 1 | 소웨지존 | [이모티콘 추천기](https://github.com/sejongresearch/EmojiRecommand) | 김경남, 김민주, 유지인, 이주혁, 황유진 | [논문], [발표자료] | 
 2 | 인공준희 | [수화 분류기](https://github.com/sejongresearch/SignLanguageClassfication) | 박준희, 이규원, 이미연, 조원, 한대찬 | [논문](https://github.com/Jo-won/Me-Mo/files/3317994/default.pdf), [발표자료] | 
-3 | AI대장 | [세종대인근 랜드마크 검색기](https://github.com/sejongresearch/LandmarkRetrieval) | 김준우, 김지원, 남현호, 이동훈, 이수민 | [논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/49#issuecomment-504761499), [발표자료] 
+3 | AI대장 | [세종대인근 랜드마크 검색기](https://github.com/sejongresearch/LandmarkRetrieval) | 김준우, 김지원, 남현호, 이동훈, 이수민 | [논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/files/3318020/-1.pdf), [발표자료] 
 4 | aicoco | [꽃 분류기](https://github.com/sejongresearch/FlowerClassification) | 김해린, 노윤아, 박미희, 엄단경, 이세미 | [논문](https://github.com/sejongresearch/FlowerClassification/blob/master/%EB%85%BC%EB%AC%B8.pdf), [발표자료] | 
 5 | 페이스타임 | [얼굴 인식기](https://github.com/sejongresearch/FaceIdentification) | 김연우, 백소현, 송민주, 이세정 | [논문](https://github.com/sejongresearch/FaceIdentification/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Facetime%20%EC%B5%9C%EC%A2%85%20%EB%85%BC%EB%AC%B8.pdf), [발표자료] | 
 6 | 자퇴와휴학사이 | [상황 분류기](https://github.com/sejongresearch/SituationClassifier) | 강산희, 권영서, 김남훈, 위성민, 최용호| [논문](https://github.com/sejongresearch/SituationClassifier/blob/master/SejongBHAJ.pdf), [발표자료] | 
