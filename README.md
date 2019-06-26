@@ -4,7 +4,7 @@
 
 번호 | 팀명 | 주제, github  | 팀원 | 논문, 발표자료 | 
 :--: | :--: | :--: | :--: | :--: | 
-1 | 소웨지존 | [이모티콘 추천기][[텀프로젝트](https://github.com/sejongresearch/EmojiRecommend/files/3328003/default.pdf) | 김경남, 김민주, 유지인, 이주혁, 황유진 | [논문](https://github.com/sejongresearch/EmojiRecommend/files/3319035/default.pdf), [발표자료](https://docs.google.com/presentation/d/1vxVN929AROXwZqxRFx3-4DvX7_vZiYLV/edit#slide=id.p1) | 
+1 | 소웨지존 | [이모티콘 추천기](https://github.com/sejongresearch/EmojiRecommend/files/3328008/default.pdf) | 김경남, 김민주, 유지인, 이주혁, 황유진 | [논문](https://github.com/sejongresearch/EmojiRecommend/files/3319035/default.pdf), [발표자료](https://docs.google.com/presentation/d/1vxVN929AROXwZqxRFx3-4DvX7_vZiYLV/edit#slide=id.p1) | 
 2 | 인공준희 | [수화 분류기](https://github.com/sejongresearch/SignLanguageClassfication) | 박준희, 이규원, 이미연, 조원, 한대찬 | [논문](https://github.com/joooooonie/main./files/3320057/ASLC.American.Sign.Language.Classification_Team.pdf), [발표자료](https://github.com/Jo-won/Me-Mo/files/3319247/submit.pptx) | 
 3 | AI대장 | [세종대인근 랜드마크 검색기](https://github.com/sejongresearch/LandmarkRetrieval) | 김준우, 김지원, 남현호, 이동훈, 이수민 | [논문](https://github.com/sejongresearch/LandmarkRetrieval/blob/master/AI_Final.pdf), [발표자료](https://github.com/sejongresearch/LandmarkRetrieval/files/3319041/AI.pptx) 
 4 | aicoco | [꽃 분류기](https://github.com/sejongresearch/FlowerClassification) | 김해린, 노윤아, 박미희, 엄단경, 이세미 | [논문](https://github.com/sejongresearch/FlowerClassification/blob/master/%EB%85%BC%EB%AC%B8.pdf), [발표자료](https://github.com/sejongresearch/FlowerClassification/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20PPT%20%EB%B0%9C%ED%91%9C%EC%9A%A91.ppt) | 
