@@ -2,7 +2,7 @@
 2019학년도 인공지능 텀프로젝트 모음
 
 
-번호 | 팀명 | 주제 | 팀원 | 논문, 발표자료 | 
+번호 | 팀명 | 주제, github  | 팀원 | 논문, 발표자료 | 
 :--: | :--: | :--: | :--: | :--: | 
 1 | 소웨지존 | [이모티콘 추천기](https://github.com/sejongresearch/EmojiRecommand) | 김경남, 김민주, 유지인, 이주혁, 황유진 | [논문](https://github.com/sejongresearch/EmojiRecommend/files/3319035/default.pdf), [발표자료](https://docs.google.com/presentation/d/1vxVN929AROXwZqxRFx3-4DvX7_vZiYLV/edit#slide=id.p1) | 
 2 | 인공준희 | [수화 분류기](https://github.com/sejongresearch/SignLanguageClassfication) | 박준희, 이규원, 이미연, 조원, 한대찬 | [논문](https://github.com/joooooonie/main./files/3320057/ASLC.American.Sign.Language.Classification_Team.pdf), [발표자료](https://github.com/Jo-won/Me-Mo/files/3319247/submit.pptx) | 
